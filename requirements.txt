@@ -1,0 +1,8 @@
+numpy>=1.19.0
+opencv-python>=4.5.1
+Pillow>=8.0.0
+pyserial>=3.5
+psutil>=5.8.0
+matplotlib>=3.3.0
+darknet==0.3.0
+pyyaml>=5.4.0 
